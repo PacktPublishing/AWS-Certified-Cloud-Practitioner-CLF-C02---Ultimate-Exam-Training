@@ -1,5 +1,5 @@
 
 
 
-# AWS-Certified-Cloud-Practitioner-CLF-C01-
-Code Repository for AWS Certified Cloud Practitioner (CLF-C01), Published by Packt
+# AWS Certified Cloud Practitioner: Ultimate Exam Training
+Code Repository for AWS Certified Cloud Practitioner: Ultimate Exam Training, Published by Packt
